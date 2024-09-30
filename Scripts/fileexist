@@ -1,0 +1,8 @@
+#!/bin/bash
+
+if [ -f ~/fileexist ]
+then
+	echo "this file exists"
+else
+	echo "this file does not"
+fi
