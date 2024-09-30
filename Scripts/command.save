@@ -1,7 +1,0 @@
-#!/bin/bash
-
-command=/usr/bin/htop
-
-if [ -f $command ]
-then 
-	echo "$command is available, lets run it 
